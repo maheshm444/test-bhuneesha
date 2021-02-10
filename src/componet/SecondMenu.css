@@ -1,0 +1,66 @@
+.container {
+  color: whitesmoke;
+}
+
+div.container {
+  /* margin-top: -30px; */
+  background-image: url("https://images.ctfassets.net/hbmwn5pbkdff/26yY5Tj0l9bc43KHvt7CgX/c573e87ad277cf740c07e7c99847eac0/GERMANY_-_GV0418_WardIvanRafik_01__2___2_.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 1000px;
+  opacity: 0.8;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+nav ol {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+  text-align: center;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 1rem;
+  color: #ccc;
+}
+nav li:hover {
+  color: #fff;
+}
+nav li:nth-of-type(2) {
+  color: #fff;
+  text-decoration: underline;
+}
+.column {
+  float: left;
+}
+.menu {
+  display: inline;
+}
+
+.logo {
+  float: left;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  display: inline-block;
+  font-weight: lighter;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: larger;
+  text-align: right;
+}
+
+.sub-container {
+  color: rgb(255, 255, 255);
+  margin-top: 25rem;
+  text-align: center;
+  font-size: 3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}

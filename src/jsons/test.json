@@ -1,0 +1,9 @@
+{
+    "name":"condenast.com",
+    "location":"Bangalore",
+    "site":"https://code.condenast.com",
+    "menu":["1.Why we're here", "2.What we believe", "3.Our commitment"],
+    "menutitle" :"We exist to create and champion the exceptional",
+    "ftag":"The Condé Code",
+    "languages":["https://code.condenast.com/fr","https://code.condenast.com/it","https://code.condenast.com/pt"]
+}
